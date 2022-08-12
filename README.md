@@ -12,3 +12,4 @@ I am following the hot roder sprit here as well. This video sum it up beautifull
 https://www.youtube.com/watch?v=DrVzANUZDKs
 
 Another approach I am throwing in the mix here is participatory design. Here, for truama, the 'customers' will be self, exiles, firefighters and managers. I am not going to supress any of their voices. I am going keep all of them on board and include them in this hack as collaborators.
+I started using gopro for video recordings. The videos contains personal information. I am happy to share with anyone interested after having a conversation in person and understaning their need to get the access. Videos are not covered in this license.
