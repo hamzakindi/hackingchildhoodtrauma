@@ -10,3 +10,5 @@ I decided to host it on github because this is how we work on open source projec
 
 I am following the hot roder sprit here as well. This video sum it up beautifully. That is pretty much the same sprit I see in hackers' culture too.
 https://www.youtube.com/watch?v=DrVzANUZDKs
+
+Another approach I am throwing in the mix here is participatory design. Here, for truama, the 'customers' will be self, exiles, firefighters and managers. I am not going to supress any of their voices. I am going keep all of them on board and include them in this hack as collaborators.
