@@ -7,3 +7,6 @@ On Linkedin, I proposed to Yuri that I will write the paper titled, 'Can hackers
 While using the 6+4 approach to problem solving that I have developed recently, I decided to focus on hacking my trauma instead since this is directly related to me right now. I am aware that from biology, my focus has shifted to psychology. And the two are not the same. But I feel hacking my childhood trauma will be more fruitful for me compared to understanding Ameoba as trauma is impacting my day to day life.
 
 I decided to host it on github because this is how we work on open source projects.
+
+I am following the hot roder sprit here as well. This video sum it up beautifully. That is pretty much the same sprit I see in hackers' culture too.
+https://www.youtube.com/watch?v=DrVzANUZDKs
